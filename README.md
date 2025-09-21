@@ -1,6 +1,8 @@
 # esp32tofpga
 Vehicle rear and proximity detection system via esp32 and fpga
+
 Built and Developed by Kurt Liam Santillan
+
 Modelled by Lian Miguel Jimena
 
 
