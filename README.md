@@ -1,5 +1,6 @@
 # esp32tofpga
-Vehicle rear and proximity detection system via esp32 and fpga
+Real-Time Non-Invasive Vehicle Rear and Blind-Spot Early Collision Detection System using FPGA,
+Microwave Radar, and Ultrasonic Sensors
 
 Built and Developed by Kurt Liam Santillan
 
