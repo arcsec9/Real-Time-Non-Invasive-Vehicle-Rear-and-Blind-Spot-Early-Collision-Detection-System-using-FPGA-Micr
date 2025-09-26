@@ -1,6 +1,5 @@
-# esp32tofpga
-Real-Time Non-Invasive Vehicle Rear and Blind-Spot Early Collision Detection System using FPGA,
-Microwave Radar, and Ultrasonic Sensors
+# Real-Time Non-Invasive Vehicle Rear and Blind-Spot Early Collision Detection System using FPGA, Microwave Radar, and Ultrasonic Sensors
+
 
 Components used:
 3 ESP32 38-pin dev module,
@@ -12,4 +11,7 @@ Components used:
 1 Beeper
 
 
-Developed by Kurt Liam Santillan and Lian Miguel Jimena
+Sensors -> ESP32_1 -> ESP32_2 -> FPGA -> ESP32_3 -> Output
+
+
+An undergraduate thesis developed by Kurt Liam Santillan and Lian Miguel Jimena
